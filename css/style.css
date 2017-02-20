@@ -1,3 +1,7 @@
+body,article,aside,footer,nav {
+  border: 1px black solid
+}
+
 body {
   background-color: grey;
 }
